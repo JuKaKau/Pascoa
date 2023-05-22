@@ -1,0 +1,66 @@
+#nome {
+
+    margin-top: 200px;
+}
+
+h1{
+
+    font-family:'Candara';
+    font-size: 60px;
+    COLOR: #BF9969
+}
+
+.formLogin{
+    width: 400px;
+  
+margin-right: 1000px ;
+margin-top: 90px;
+    font-family:'Candara';
+}
+
+.formLogin label {
+    margin-top:15px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.formLogin fieldset {
+    background-color: #739626;
+    padding: 50px;
+
+}
+#email, #pass, .btn {
+
+    display: block;
+   
+    padding: 15px;
+    font-size: 30px;
+    border: none;
+}
+
+#email, #pass{
+  background-color: #ddd;  
+}
+
+#email:focus, #pass:focus{
+    background: #white;
+
+}
+
+.btn {
+
+    margin-top: 30px;
+    font-size: 24px;
+    width: 200px;
+    background-color: #D1AF4D;  
+}
+
+#user {
+    margin-bottom: 15px;
+}
+
+#img {
+
+    background-size: cover;
+}
+
